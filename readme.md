@@ -1,5 +1,6 @@
 ## Project Files Overview
 
+- **other_files/boot.py**: The boot.py file used to mimic genuine USB device and to fix packet size for keyboard
 - **training_files/Training_code.ipynb**: Contains code for training models.
 - **main_data/merged_isc.csv**: Features for isochronous devices.
 - **main_data/merged_bulk.csv**: Features for bulk devices.
